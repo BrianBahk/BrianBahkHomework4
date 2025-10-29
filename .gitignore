@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environments
+.venv/
+.venv*/
+env/
+venv/
+
+# Data and large artifacts
+drive_data/
+*.zip
+*.npz
+*.th
+*.pt
+*.pth
+*.ckpt
+runs/
+logs/
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
